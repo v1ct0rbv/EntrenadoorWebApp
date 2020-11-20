@@ -11,7 +11,7 @@ const Navbar = ({ auth: { isAuthenticated, loading }, logout }) => {
       <Fragment>
                 <li className="nav-item">
                   <Link className='nav-link e-4' style={{marginRight:'30px'}} to='/perfil'>
-                  <span className='hide-sm'>Perfil</span>
+                  <span className='hide-sm'>Cuenta</span>
                 </Link>
                 </li> 
                 <li class="nav-item">
