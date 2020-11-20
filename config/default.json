@@ -1,0 +1,4 @@
+{
+    "mongoURI":"mongodb+srv://v1ct0rbv:Goss12.com@juegostorrent.s4r06.mongodb.net/EntrenadoorWebApp?retryWrites=true&w=majority",
+    "jwtSecret":"contraseñaSegura1234"
+}
